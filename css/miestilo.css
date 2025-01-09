@@ -1,8 +1,17 @@
-body {
-    background-color: chocolate;
-}
 
 .col-sm-8 {
     width: 20%;
     height: 20%;
+}
+
+body{
+    background-color: #3d0a91; 
+
+  }
+  
+  .container-fluid{
+    background-color: #8540f5;
+  }
+.color{
+    background-color: #8540f5;
 }
