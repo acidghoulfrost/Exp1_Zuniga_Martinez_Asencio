@@ -15,3 +15,18 @@ body{
 .color{
     background-color: #8540f5;
 }
+
+footer{
+    background-color: #6610f2;
+}
+
+p{
+    color: #e0cffc;
+}
+h2{
+    color: #e0cffc;
+    text-align: center;
+}
+li{
+    color: #e0cffc;
+}
